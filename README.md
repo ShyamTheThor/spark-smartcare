@@ -1,7 +1,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Team-SPARK-gold?style=for-the-badge&labelColor=1a1a2e" alt="Team SPARK" />
-  <img src="https://img.shields.io/badge/Ministry-Health_&_Family_Welfare-00796b?style=for-the-badge&logo=government&labelColor=004d40" alt="MoHFW" />
   <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 
@@ -529,15 +528,5 @@ SmartCare is open source software developed by **Team SPARK** under the [MIT Lic
 </p>
 
 
----
 
-##  Official Presentation & Pitch Deck
-
-The official presentation slides for **SmartCare (Team SPARK)** are showcased below:
-
-<p align="center">
-  <img src="docs/screenshots/presentation/Slide1.JPG" alt="SmartCare Presentation Deck Cover" style="width: 85%; border-radius: 8px; border: 1px solid #30363d; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
-  <br/>
-  <sub><i>Project presentation and architecture deck</i></sub>
-</p>
 

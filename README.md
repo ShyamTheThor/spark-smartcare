@@ -422,10 +422,6 @@ Watch the live video walkthroughs of the SmartCare ecosystem:
 
 ---
 
-##  Live Demo & UI Showcase
-
-> **Full 60-Second Walkthrough Script**: See [DEMO.md](DEMO.md) for the end-to-end evaluation flow.
-
 ###  Patient Portal Workflow (`http://localhost:5173`)
 
 The citizen OPD journey eliminates 3–5 hour physical waiting lines through a synchronized 5-step digital lifecycle:
@@ -433,7 +429,7 @@ The citizen OPD journey eliminates 3–5 hour physical waiting lines through a s
 #### Step 1 — National Smart OPD Queue & AI Triage Platform (Landing Page)
 Citizen entry point featuring MoHFW & ABDM branding, 11 Indian language switchers, emergency 108 SOS dispatch, live network status counters (14,820+ tokens issued today, -42 mins wait reduced), and instant Quick Gateway cards.
 
-![Step 1: National Smart OPD Queue & AI Triage Platform](docs/screenshots/patient/01_patient_landing.png)
+![Step 1: National Smart OPD Queue & AI Triage Platform]
 
 ---
 
@@ -498,19 +494,6 @@ Native Kotlin + Jetpack Compose turnstile terminal app with Google ML Kit barcod
 |:---:|:---:|
 | ![Android Scanner Viewfinder](docs/screenshots/scanner/01_scanner_camera_viewfinder.png) | ![Android Token Verified Success](docs/screenshots/scanner/02_scanner_token_verified.png) |
 | **High-Density QR Scan Viewfinder**<br>Point-and-shoot CameraX scanner linked to terminal `STAFF-DESK-01` targeting token `CARD-928` with auto-focus and low-latency frame analysis. | **Instant SHA-256 Gate Authorization**<br>Verifies token authenticity (`tok_8cba54f5`), confirms department (`dept-cardio`), unlocks turnstile gate, and broadcasts WebSocket event to doctor console. |
-
----
-
-##  Team SPARK
-
-| Member | Role | Responsibilities |
-|--------|------|-----------------|
-| **Arpan** | Lead Developer & Architect | Backend architecture, Supabase pool, system design |
-| **Rishikesh** | Full-Stack Developer | Patient portal, i18n, PWA, frontend engineering |
-| **Kartik** | Backend & ML Engineer | AI triage engine, wait-time prediction, queue algorithms |
-| **Alok** | Frontend Developer | Doctor console, real-time UI, Recharts analytics |
-| **Ajay Kumar** | Government Portal Lead | Vigilance dashboard, DPI engine, bonus calculator |
-| **Shristi** | Mobile Developer | Android scanner app, Kotlin + Compose, ML Kit integration |
 
 ---
 

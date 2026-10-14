@@ -541,26 +541,3 @@ The official presentation slides for **SmartCare (Team SPARK)** are showcased be
   <sub><i>Project presentation and architecture deck</i></sub>
 </p>
 
-### Slide Deck Previews
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="docs/screenshots/presentation/Slide2.JPG" alt="Slide 2: Proposed Solution Architecture" style="width: 100%; border-radius: 6px; border: 1px solid #e1e4e8;" />
-      <br/>
-      <small><b>Slide 2: Proposed Solution</b></small>
-    </td>
-    <td width="33%" align="center">
-      <img src="docs/screenshots/presentation/Slide3.JPG" alt="Slide 3: Technical Implementation" style="width: 100%; border-radius: 6px; border: 1px solid #e1e4e8;" />
-      <br/>
-      <small><b>Slide 3: Technical Approach</b></small>
-    </td>
-    <td width="33%" align="center">
-      <img src="docs/screenshots/presentation/Slide4.JPG" alt="Slide 4: System Architecture & DPI" style="width: 100%; border-radius: 6px; border: 1px solid #e1e4e8;" />
-      <br/>
-      <small><b>Slide 4: Architecture & DPI</b></small>
-    </td>
-  </tr>
-</table>
-
-> **Presentation Overview:** The deck articulates problem analysis for Indian public hospitals, end-to-end technical workflows, AI triage algorithms, multi-key Supabase & Gemini routing, turnstile anti-ghost verification, and national DPI oversight incentives.
